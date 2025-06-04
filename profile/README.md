@@ -33,10 +33,10 @@ All the action happens under our dedicated GitHub Organization: **[Component Ori
 
 Here's a map to the key places:
 
-* ✍️ **The Tutorial Itself (Markdown Goodness):** `https://github.com/Component-Oriented-PHP/tutorials` - This is where the sacred (and profane) texts reside.
-* 💡 **Basic Application (The "Before" Picture):** `https://github.com/Component-Oriented-PHP/basic-application` - The final output of the basic tutorial. Simple, a bit magical.
-* 🛠️ **Advanced Application (The "After" Picture... and an ongoing battle):** `https://github.com/Component-Oriented-PHP/application` - The beast we build in the advanced tutorial.
-* 🎨 **Example Frontend (Not part of the tutorial, just a demo consumer):** `https://github.com/Component-Oriented-PHP/frontend` - Shows the API in action with some javascript framework (not decided which one yet).
+* ✍️ **The Tutorial Itself (Markdown Goodness):** <https://github.com/Component-Oriented-PHP/tutorials> - This is where the sacred (and profane) texts reside.
+* 💡 **Basic Application (The "Before" Picture):** <https://github.com/Component-Oriented-PHP/basic-application> - The final output of the basic tutorial. Simple, a bit magical.
+* 🛠️ **Advanced Application (The "After" Picture... and an ongoing battle):** <https://github.com/Component-Oriented-PHP/application> - The beast we build in the advanced tutorial.
+* 🎨 **Example Frontend (Not part of the tutorial, just a demo consumer):** <https://github.com/Component-Oriented-PHP/frontend> - Shows the API in action with some javascript framework (not decided which one yet).
 
 ---
 
